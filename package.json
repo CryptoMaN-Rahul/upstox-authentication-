@@ -1,0 +1,19 @@
+{
+  "name": "upstox-oauth2",
+  "version": "0.0.1",
+  "description": "Easy authentication for upstox api based trading.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "upstox",
+    "uplink",
+    "authentication",
+    "Oauth2",
+    "algo trading",
+    "trading"
+  ]
+
+}
