@@ -9,7 +9,7 @@ The token is persisted throughout in the .env till it expires.
 ### Usage
 
 ```js
-import performAuth from "upauth";
+import performAuth from "upstox-oauth2";
 const accessToken = await performAuth();
 ```
 
